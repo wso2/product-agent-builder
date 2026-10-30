@@ -26,6 +26,15 @@ WSO2 Agent Builder is an open source, low-code IDE for building AI agents. Desig
 
 Download the installer for your platform from the [releases page](https://github.com/wso2/product-agent-builder/releases). Installers are available for macOS (Apple silicon and Intel), Windows and Linux (`.deb`, `.rpm` and `.tar.gz`).
 
+## Get Started
+
+See the following topics to get started with the product:
+
+- [Get Started](https://wso2.com/integration-platform/docs/agent-builder/get-started)
+- [Build an AI Agent](https://wso2.com/integration-platform/docs/agent-builder/get-started/quickstarts/build-ai-agent)
+- [Build a Durable Agent](https://wso2.com/integration-platform/docs/agent-builder/get-started/quickstarts/build-durable-agent)
+- [Guides](https://wso2.com/integration-platform/docs/agent-builder/guides)
+
 ## Source Code
 
 This repository holds the releases and the issue tracker. The source code is in these repositories:
@@ -45,6 +54,7 @@ Do **not** report security issues in GitHub issues. Follow the [WSO2 Security Vu
 
 ## Join the Community
 
+- Read our [documentation](https://wso2.com/integration-platform/docs/agent-builder/).
 - Join the conversation on [Discord](https://discord.gg/wso2).
 - Read articles in the [WSO2 library](https://wso2.com/library/).
 
